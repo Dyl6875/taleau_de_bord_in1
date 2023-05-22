@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_while" id="mi,Cy~U{sF*h^gzcM_!z" disabled="true" x="263" y="-49"><value name="COND"><shadow type="logic_boolean" id="mQf*5B`t?ut{?B*jICR%" disabled="true"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="P8hh,I{7-89#ojQTpH1^" disabled="true"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_forever" id="1WBf2`3^G06PjQjCB6|u" x="0" y="0"></block><block type="device_show_leds" id="WUIJi2TB@7n!L^1VJ+Uu" disabled="true" x="570" y="-6"><field name="LEDS">`
+        # # # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></xml>
